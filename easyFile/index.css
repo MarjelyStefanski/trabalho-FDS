@@ -1,0 +1,83 @@
+
+        body{
+            background-color: rgb(222, 210, 194);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            color: rgb(96, 134, 102);
+            font-size: 90px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        p{
+            text-align: justify;
+            font-size: 55px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h2{
+            color: rgb(124, 188, 134);
+            font-size: 70px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        ul{
+            display: flex;
+            justify-content: space-between; 
+            font-size:50px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        img{
+            border-radius: 15px;
+        }
+        h3{
+            font-family: Arial, Helvetica, sans-serif;
+            color:  rgb(124, 188, 134);
+            font-size: 70px;
+            text-align: center
+        
+        }
+        table{
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            font-size: xx-large;
+        }
+        table td, table th{
+            font-family: Arial, Helvetica, sans-serif;
+            border: 10px solid #484646;
+            padding: 5px;
+            text-align:center;
+            font-size: larger;
+        }
+        
+        .container{
+            padding: 0px 50px;
+        }
+
+        a {
+            font-family: Arial, Helvetica, sans-serif;
+            color: black;
+            font-size: 40px;
+            text-align: center;
+        }
+        
+        h4{
+             font-family: Arial, Helvetica, sans-serif;
+            color:  rgb(124, 188, 134);
+            font-size: 70px;
+            text-align: center
+
+        }
+        button{
+            font-family: Arial, Helvetica, sans-serif;
+            color:  rgb(0, 0, 0);
+            font-size: 70px;
+            text-align: center;
+            padding: 10px 60px;
+        }
+        a:hover{
+            color: rgb(96, 159, 138);
+        }
+
+        
+    
